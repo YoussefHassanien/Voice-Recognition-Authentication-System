@@ -28,13 +28,13 @@ pip install PyQt5 matplotlib sounddevice soundfile librosa numpy scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MoHazem02/Voice-Authentication-System.git
+git clone https://github.com/YoussefHassanien/Voice-Recognition-Authentication-System.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Voice-Authentication-System
+cd Voice-Recognition-Authentication-System
 ```
 
 3. Run the application:
